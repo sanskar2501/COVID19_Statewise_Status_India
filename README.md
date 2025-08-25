@@ -1,1 +1,1 @@
-# COVID19_Statewise_Status_India
+# COVID19_StatewiseStatus_India
